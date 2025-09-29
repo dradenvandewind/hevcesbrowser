@@ -26,6 +26,8 @@ Gui
 
 Building requirements:
 -----
+brew install qt5 boost
+sudo apt install libboost-system-dev libboost-filesystem-dev libboost-all-dev
 
 * boost (for testing only)
 
